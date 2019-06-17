@@ -13,9 +13,4 @@ public class HomeController {
         return "home";
     }
 
-    @PostMapping("/signIn")
-    public String goToSignInPage() {
-        return "redirect:/home";
-    }
-
 }
