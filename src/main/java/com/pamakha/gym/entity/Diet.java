@@ -1,6 +1,6 @@
 package com.pamakha.gym.entity;
 
-import com.pamakha.mywebapp.entity.type.enums.DietType;
+import com.pamakha.gym.entity.type.enums.DietType;
 import lombok.AccessLevel;
 import lombok.Data;
 import lombok.NoArgsConstructor;
